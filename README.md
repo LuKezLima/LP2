@@ -8,7 +8,7 @@ Portfólio com diversos códigos em JAVA realizados a partir das aulas de LP2.
 
 ### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes aulas:
 
 - [] 23/08/2022 
 - [] 30/08/2022 
