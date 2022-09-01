@@ -10,7 +10,7 @@ Portfólio com diversos códigos em JAVA realizados a partir das aulas de LP2.
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes aulas:
 
-- [] 23/08/2022 
+- [x] 23/08/2022 (Threads) 
 - [] 30/08/2022 
 - [] 06/09/2022 
 - [] 13/09/2022 
